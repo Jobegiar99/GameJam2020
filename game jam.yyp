@@ -1,5 +1,14 @@
 {
   "resources": [
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":19,},
+    {"id":{"name":"child_w","path":"sprites/child_w/child_w.yy",},"order":21,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":18,},
+    {"id":{"name":"arrow","path":"objects/arrow/arrow.yy",},"order":2,},
+    {"id":{"name":"player","path":"objects/player/player.yy",},"order":15,},
+    {"id":{"name":"Solid_block","path":"objects/Solid_block/Solid_block.yy",},"order":17,},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":16,},
+    {"id":{"name":"idle","path":"sprites/idle/idle.yy",},"order":20,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -15,6 +24,7 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"Room2","path":"rooms/Room2/Room2.yy",},
     {"name":"Room1","path":"rooms/Room1/Room1.yy",},
   ],
   "Folders": [
