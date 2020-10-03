@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ba17bb08-2fa5-4eb1-8e21-775034d3ef89","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "game jam",
-    "path": "game jam.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "idle",

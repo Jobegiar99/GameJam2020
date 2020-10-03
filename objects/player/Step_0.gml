@@ -38,7 +38,7 @@ if(place_free(x+xmov,y)){
 if(xmov!=0) animdir= xmov/abs(xmov);
 //Jump ctrl
 hasjump = !place_free(x,y+1);
-jump=keyboard_check(vk_space)||keyboard_check(vk_up)||keyboard_check(ord("W"));
+jump=keyboard_check(vk_up)||keyboard_check(ord("W"));
 
 
 if(abs(gst-jump*jumpmod)<=jumpext&&jumprel){
@@ -49,8 +49,11 @@ if(abs(gst-jump*jumpmod)<=jumpext&&jumprel){
 }
 
 
+//Destory instances ctrl
+
+
 //Control flechas
-if(keyboard_check(ord("F"))&&timebuffer>timeinsec){
+if((keyboard_check(ord("F"))||keyboard_check(vk_space))&&timebuffer>timeinsec){
 	if(animdir>0){
 		narr=instance_create_depth(x+animdir*imgwidth,y,1,arrow);
 		with(narr){

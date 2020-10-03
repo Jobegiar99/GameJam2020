@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7f465135-a363-437e-8e9e-f7b53b74aaaa","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "game jam",
-    "path": "game jam.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "Sprite2",
