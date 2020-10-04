@@ -20,6 +20,7 @@
 		physics_boss_logic_projectile_movement_left = temp[3];
 		speed = temp[4];
 		direction = temp[5];
+		image_angle = direction;
 	}else if(alarmOneCall and !obj_boss_projectile_attack){
 		alarm[1] = 120;	
 		alarmOneCall = false;
