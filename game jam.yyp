@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"idlet","path":"sprites/idlet/idlet.yy",},"order":6,},
     {"id":{"name":"DevRoom","path":"rooms/DevRoom/DevRoom.yy",},"order":1,},
+    {"id":{"name":"Ghost","path":"sprites/Ghost/Ghost.yy",},"order":10,},
     {"id":{"name":"Niv_3","path":"rooms/Niv_3/Niv_3.yy",},"order":14,},
     {"id":{"name":"Niv_4","path":"rooms/Niv_4/Niv_4.yy",},"order":15,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":12,},
@@ -23,8 +24,9 @@
     {"id":{"name":"Solid_block","path":"objects/Solid_block/Solid_block.yy",},"order":1,},
     {"id":{"name":"adult_w","path":"sprites/adult_w/adult_w.yy",},"order":7,},
     {"id":{"name":"niv_2","path":"sprites/niv_2/niv_2.yy",},"order":6,},
+    {"id":{"name":"Ghust","path":"objects/Ghust/Ghust.yy",},"order":9,},
     {"id":{"name":"niv2_mont","path":"sprites/niv2_mont/niv2_mont.yy",},"order":4,},
-    {"id":{"name":"Spider","path":"sprites/Spider/Spider.yy",},"order":16,},
+    {"id":{"name":"Spider","path":"sprites/Spider/Spider.yy",},"order":9,},
     {"id":{"name":"playerA","path":"objects/playerA/playerA.yy",},"order":6,},
     {"id":{"name":"playert","path":"objects/playert/playert.yy",},"order":7,},
     {"id":{"name":"pitfall","path":"objects/pitfall/pitfall.yy",},"order":4,},
@@ -53,10 +55,10 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"Niv_4","path":"rooms/Niv_4/Niv_4.yy",},
     {"name":"Niv_3","path":"rooms/Niv_3/Niv_3.yy",},
     {"name":"Niv_1","path":"rooms/Niv_1/Niv_1.yy",},
     {"name":"Niv_2","path":"rooms/Niv_2/Niv_2.yy",},
-    {"name":"Niv_4","path":"rooms/Niv_4/Niv_4.yy",},
     {"name":"DevRoom","path":"rooms/DevRoom/DevRoom.yy",},
   ],
   "Folders": [
