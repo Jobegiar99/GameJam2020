@@ -54,7 +54,7 @@ if(abs(gst-jump*jumpmod)<=jumpext&&jumprel){
 
 //Control flechas
 if(!ischild){
-	if((keyboard_check(ord("F"))||keyboard_check(vk_space))&&timebuffer>timeinsec){
+	if((keyboard_check(ord("F"))||keyboard_check(vk_space))&&timebuffer>timeinsec/2){
 		if(animdir>0){
 			narr=instance_create_depth(x+animdir*imgwidth,y-50,1,arrow);
 			with(narr){
