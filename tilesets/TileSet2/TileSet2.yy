@@ -1,5 +1,4 @@
 {
-  "name": "TileSet2",
   "spriteId": {
     "name": "Sprite6",
     "path": "sprites/Sprite6/Sprite6.yy",
@@ -133,10 +132,11 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "TileSet2",
   "tags": [],
   "resourceType": "GMTileSet",
 }

@@ -1,5 +1,4 @@
 {
-  "name": "TileSet3",
   "spriteId": {
     "name": "cave_fore",
     "path": "sprites/cave_fore/cave_fore.yy",
@@ -133,10 +132,11 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "TileSet3",
   "tags": [],
   "resourceType": "GMTileSet",
 }

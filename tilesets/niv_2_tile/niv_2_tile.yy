@@ -1,5 +1,4 @@
 {
-  "name": "niv_2_tile",
   "spriteId": {
     "name": "niv_2",
     "path": "sprites/niv_2/niv_2.yy",
@@ -133,10 +132,11 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "niv_2_tile",
   "tags": [],
   "resourceType": "GMTileSet",
 }
